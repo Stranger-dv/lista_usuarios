@@ -1,7 +1,8 @@
 # lista_usuarios
 
-</br>
+## Blocks of code
 
+```
 usuarios = [
     {"nombre": "Carlos", "edad": 32, "email": "carlos32@example.com"},
     {"nombre": "Lucía", "edad": 25, "email": "lucia25@example.com"},
@@ -14,6 +15,6 @@ usuarios = [
     {"nombre": "Elena", "edad": 35, "email": "elena35@example.com"},
     {"nombre": "Miguel", "edad": 40, "email": "miguel40@example.com"}
 ]
+```
 
-</br>
 endpoint /  & endpoint /usuarios
